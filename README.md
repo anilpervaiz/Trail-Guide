@@ -1,2 +1,2 @@
 # Trail-Guide
-hmm
+Trail Guide app demonstration
